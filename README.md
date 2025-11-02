@@ -32,10 +32,8 @@ streamlit run app.py
 
 📊 Sentiment Mapping
 
-Rating	  Sentiment
-
-4–5	         Positive
-
-3	           Neutral
-
-1–2	         Negative
+| Rating | Sentiment |
+| ------ | --------- |
+| 4–5    | Positive  |
+| 3      | Neutral   |
+| 1–2    | Negative  |
