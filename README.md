@@ -28,7 +28,8 @@ source .venv/bin/activate   # On Mac/Linux
 pip install -r requirements.txt
 
 4.Run the app:
-streamlit run app.py
+   streamlit run app.py
+
 
 📊 Sentiment Mapping
 
