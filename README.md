@@ -34,8 +34,8 @@ streamlit run app.py
 
 Rating	  Sentiment
 
-4–5	      Positive
+4–5	         Positive
 
-3	        Neutral
+3	           Neutral
 
-1–2	      Negative
+1–2	         Negative
