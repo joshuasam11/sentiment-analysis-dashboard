@@ -1,5 +1,6 @@
 # sentiment-analysis-dashboard
 Streamlit app for analyzing and visualizing customer sentiment from reviews.
+
 💬 Sentiment Analysis Dashboard
 
 This project is a **Streamlit-based Sentiment Analysis App** that visualizes customer review sentiments.  
@@ -30,7 +31,11 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📊 Sentiment Mapping
+
 Rating	  Sentiment
+
 4–5	      Positive
+
 3	        Neutral
+
 1–2	      Negative
