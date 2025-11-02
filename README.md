@@ -19,15 +19,18 @@ It converts review ratings into **Positive**, **Neutral**, or **Negative** senti
    git clone https://github.com/YOUR_USERNAME/sentiment-analysis-dashboard.git
    cd sentiment-analysis-dashboard
 
-2.Create a virtual environment and activate it:
-python -m venv .venv
-.venv\Scripts\activate      # On Windows
-source .venv/bin/activate   # On Mac/Linux
+2. Create a virtual environment and activate it:
+
+   python -m venv .venv
+   .venv\Scripts\activate      # On Windows
+   source .venv/bin/activate   # On Mac/Linux
 
 3.Install required packages:
-pip install -r requirements.txt
+   
+   pip install -r requirements.txt
 
 4.Run the app:
+   
    streamlit run app.py
 
 
